@@ -1,0 +1,51 @@
+sample_id,ground_truth,asr_transcript,agent_response,manual_b_label,manual_c_label,notes,severity_ref,word_category_ref
+CM08_B2_C11_M6,Paragraph,Paragraph.,"I'm sorry, could you please provide more context or a specific request?",,,,control,computer_command
+CM04_B3_C16_M7,Upward,Upward.,Could you please provide more context or clarify your request?,,,,control,computer_command
+CM06_B3_C7_M7,Alt,Alt.,Could you please provide more context or clarify your request?,,,,control,computer_command
+CM01_B3_C7_M7,Alt,Alt.,Could you please provide more context or clarify your request?,,,,control,computer_command
+F05_B1_C10_M3,Line,Line.,Could you please provide more context or clarify your request?,,,,high,computer_command
+M08_B2_C6_M7,Escape,Skank.,I'm not sure I understand. Could you please provide more context or clarify your request?,,,,high,computer_command
+F05_B3_C19_M5,Right,Right.,Could you please provide more details about what you need help with?,,,,high,computer_command
+M10_B1_C12_M4,Sentence,Send.,Could you please provide more details about what you want to send?,,,,high,computer_command
+M07_B1_C16_M4,Upward,Oh boy!,It seems like you're excited! How can I help you today?,,,,low,computer_command
+M16_B2_C7_M8,Alt,Gold.,Could you please provide more context? What would you like to know about gold?,,,,low,computer_command
+M07_B1_C3_M4,Delete,Do it!,Could you please provide more details about what you want me to do?,,,,low,computer_command
+M16_B3_C15_M6,Copy,Copy.,Could you please provide more details about what you want to copy?,,,,low,computer_command
+F04_B1_C13_M7,Paste,Paid.,Did you pay a bill or make a payment? Can you provide more details?,,,,mid,computer_command
+M11_B1_C18_M8,Left,Loved.,I'm glad you loved it! Is there anything else you'd like to share or do next?,,,,mid,computer_command
+F04_B2_C18_M2,Left,Right.,Could you please provide more details about what you need help with?,,,,mid,computer_command
+M11_B1_C6_M3,Escape,It's okay.,"Sure, is there anything else you need help with?",,,,mid,computer_command
+M12_B3_C16_M6,Upward,,It seems there might have been an error in the transcription. Could you please clarify your request?,,,,very low,computer_command
+F03_B2_C8_M8,Control,Who is it?,Could you please repeat that? It's a bit unclear.,,,,very low,computer_command
+M12_B3_C18_M6,Left,Waaah!,It seems like you might have made a mistake. Could you please clarify what you need?,,,,very low,computer_command
+M04_B2_C10_M3,Line,Yes.,Could you please provide more information about what you need help with?,,,,very low,computer_command
+CM05_B1_UW16_M5,nevertheless,Nevertheless...,It seems like you might need some help with that. Could you please clarify your request?,,,,control,uncommon_word
+CM06_B3_UW92_M8,crying,Crying.,"I'm sorry, I'm not sure how to help with that. Can you provide more context or clarify?",,,,control,uncommon_word
+M10_B2_UW48_M7,betook,Batook.,"I'm sorry, I didn't understand that. Could you please clarify or repeat your request?",,,,high,uncommon_word
+M10_B2_UW98_M4,ring,Ring.,I didn't quite catch that. Could you please repeat your request?,,,,high,uncommon_word
+M07_B3_UW68_M2,episode,Vibre.,"I'm sorry, I didn't quite understand that. Could you please repeat or clarify your request?",,,,low,uncommon_word
+F02_B3_UW27_M6,reward,Wind low.,I'm not sure I understand. Could you please clarify?,,,,low,uncommon_word
+M05_B1_UW24_M8,avenues,I win news.,Could you clarify if you meant to check the news or something else?,,,,mid,uncommon_word
+F04_B2_UW72_M5,convulsion,Come over here.,"Sure, shall I come to your location now?",,,,mid,uncommon_word
+M01_B3_UW79_M5,powwow,So far so far so far.,"It sounds like you're repeating ""so far so far so far."" Is there something specific you'd like to discuss or ask about this?",,,,very low,uncommon_word
+M12_B3_UW66_M5,cushy,Waaah!,It seems like you might have made a mistake. Could you please clarify what you need?,,,,very low,uncommon_word
+CM06_B3_CW63_M6,make,Make.,Could you please provide more details or clarify your request?,,,,control,common_word
+CM10_B2_CW95_M7,come,Come.,I'm here. How can I assist you?,,,,control,common_word
+M08_B2_CW99_M3,oh,Ola.,Hello! How can I assist you today?,,,,high,common_word
+M09_B1_CW50_M7,will,Well...,Could you please clarify your request?,,,,high,common_word
+M16_B3_CW30_M4,but,But...,Could you please provide more information or ask your question again?,,,,low,common_word
+M07_B1_CW24_M5,have,Here is.,Could you please provide more information or ask a question?,,,,low,common_word
+F04_B3_CW80_M8,than,Then...,Could you please provide more context or clarify your request?,,,,mid,common_word
+M05_B3_CW10_M2,it,It.,"I'm sorry, I didn't quite understand that. Could you please clarify or repeat your request?",,,,mid,common_word
+F03_B3_CW60_M3,some,Thin.,Could you please provide more context or clarify your request?,,,,very low,common_word
+M01_B1_CW56_M5,then,"And no, no, no. No, no. Oh.",It seems like there might have been a misunderstanding. Could you please clarify your request?,,,,very low,common_word
+CF04_B1_D1_M2,One,Okay.,Is there something specific you need help with?,,,,control,digit
+M09_B2_D9_M3,Nine,9,Could you please provide more context or clarify your request?,,,,high,digit
+M16_B2_D3_M7,Three,So we...,Could you please clarify your request? It's a bit unclear.,,,,low,digit
+F04_B1_D2_M4,Two,See you.,Goodbye!,,,,mid,digit
+M04_B2_D1_M7,One,One.,Could you please provide more context or clarify your request?,,,,very low,digit
+CF02_B2_LJ_M8,Juliet,Juliet?,I didn't quite catch that. Did you say Juliet? Can you please clarify?,,,,control,radio_alphabet_letter
+M08_B3_LU_M6,Uniform,Uniform.,Could you please clarify? Are you looking for information about uniforms or do you need help with something related to uniforms?,,,,high,radio_alphabet_letter
+M16_B2_LC_M4,Charlie,How are you?,"I'm good, thanks for asking! How can I help you today?",,,,low,radio_alphabet_letter
+M11_B2_LT_M7,Tango,Tingle.,"I'm sorry, I didn't quite understand that. Could you please provide more details or repeat the command?",,,,mid,radio_alphabet_letter
+M04_B3_LW_M8,Whiskey,Fuuuuhhh!,It seems like you might have said something but I didn't catch it. Could you please clarify?,,,,very low,radio_alphabet_letter

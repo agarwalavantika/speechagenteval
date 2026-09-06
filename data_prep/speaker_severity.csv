@@ -1,0 +1,18 @@
+speaker_id,severity,intelligibility_pct
+M01,very low,15.0
+M04,very low,2.0
+M05,mid,58.0
+M06,low,39.0
+M07,low,28.0
+M08,high,93.0
+M09,high,86.0
+M10,high,93.0
+F02,low,29.0
+F03,very low,6.0
+F04,mid,62.0
+F05,high,95.0
+M11,mid,62.0
+M12,very low,7.4
+M13,unknown,
+M14,high,90.4
+M16,low,43.0

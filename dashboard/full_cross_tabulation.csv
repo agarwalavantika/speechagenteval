@@ -1,0 +1,3 @@
+probe_says_ambiguous,output: confident (B1),output: hedged (B3)
+probe: ambiguous,60,119
+probe: clear,14,67

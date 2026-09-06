@@ -1,0 +1,6 @@
+sample_id,ground_truth,asr_transcript,agent_response,manual_b_label,manual_c_label,notes
+UA_001,call mom,call bomb,I've placed a call to your contact 'Bomb'.,,,
+UA_002,stop,stop,Stopping now.,,,
+UA_003,volume up,volume of,I'm not sure I caught that -- did you want me to change the volume?,,,
+CV_001,,,,,,
+CV_002,,,,,,
