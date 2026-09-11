@@ -1,5 +1,7 @@
 # SpeechAgentEval
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-speechagenteval.streamlit.app-blue)](https://speechagenteval.streamlit.app)
+
 **An evaluation harness for voice-agent pipelines (ASR → LLM), stress-tested against real dysarthric speech.**
 
 Most evaluations of voice assistants stop at Word Error Rate. This project asks the more important question: **when speech recognition gets something wrong, does the error get caught, get harmlessly absorbed, or silently propagate into a confidently wrong response?** And can we tell, from the model's own internal activations, whether it "knew" something was off even when its output gave no sign of it?
